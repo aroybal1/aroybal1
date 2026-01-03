@@ -1,6 +1,6 @@
 ## Hello, my name is Kai Roybal
 
-I’m a Stanford computer science student on the computer engineering track with interests in quantum computing, biotech, and software development. I have experience leading cross functional teams to build AI powered mobile and web applications, and I enjoy translating real user needs into technically sound, scalable products in education, health, and community focused domains.
+I’m a Stanford computer science student on the computer engineering track with interests in quantum computing, biotech, and software development. I have experience leading cross functional teams to build AI powered mobile and web applications, and I enjoy translating user needs into products in education, health, and community focused domains.
 
 Below are some of the projects I’ve worked on.
 
@@ -92,7 +92,7 @@ As a team, **Ventricular Vibes** designed a biotech prototype aimed at reducing 
 Right heart failure complicates approximately **20–50% of LVAD implants** and is a major contributor to postoperative morbidity and mortality.
 
 **Need Statement**  
-There is a need for improved post-implant monitoring to reduce RHF incidence and mortality risk in LVAD patients.
+There is a need for improved post implant monitoring to reduce RHF incidence and mortality risk in LVAD patients.
 
 **Solution**  
 We propose algorithms that integrate continuous **pulmonary artery** and **left ventricular pressure** data from implantable sensors to proactively identify and alert clinicians of elevated RHF risk.
