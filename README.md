@@ -34,9 +34,11 @@ Below are some of the projects I’ve worked on.
 
 ## Demo
 
-<!-- Replace the link below with your actual video URL or GitHub-hosted video -->
 **Demo Video:**  
-[Insert demo video link here]
+
+https://github.com/user-attachments/assets/95528da7-3844-4305-8996-bcf29f761c45
+
+
 
 ### Demo Walkthrough
 1. The video opens on the **vehicle profile selection** screen  
