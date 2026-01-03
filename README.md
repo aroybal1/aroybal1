@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/95528da7-3844-4305-8996-bcf29f761c45
 
 ## Ventricular Vibes
 
-**Ventricular Vibes** is a biotech prototype designed to reduce right heart failure (RHF), a critical post-implant complication affecting LVAD patients. The project explores pressure-sensor–driven algorithms for LVAD systems, targeting a projected **>25% reduction in RHF risk** and **>10% reduction in 30-day rehospitalization**.
+As a team, **Ventricular Vibes** designed a biotech prototype aimed at reducing right heart failure (RHF), a critical post-implant complication affecting LVAD patients. The project explores pressure sensor driven algorithms for LVAD systems, targeting a projected **>25% reduction in RHF risk** and **>10% reduction in 30-day rehospitalization**.
 
 ---
 
